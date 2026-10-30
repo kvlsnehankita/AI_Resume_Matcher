@@ -1,0 +1,17 @@
+streamlit
+pandas
+scikit-learn
+sentence-transformers
+torch
+python-docx
+PyPDF2
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+python-jose[cryptography]
+email-validator
+reportlab
+google-generativeai
+python-multipart
